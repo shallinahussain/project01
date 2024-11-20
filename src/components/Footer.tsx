@@ -6,10 +6,10 @@ const Footer = () => {
       <div className='max-w-6xl mx-auto grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8 px-4 sm:px-6 lg:px-8'>
       <div>
         <h3 className='text-lg font-bold text-white mb-4'>About us</h3>
-        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Doloribus obcaecati</p>
+        <p>Lorem, Ipsum dolor sit amet consectetur adipisicing elit Doloribus obcaecati</p>
       </div>
       <div>
-        <h3 className='text-lg font-bold text-white mb-4'> links</h3>
+        <h3 className='text-lg font-bold text-white mb-4'> Links</h3>
         <ul>
           <li><a href="/" className='hover:text-slate-300'>home</a></li>
           <li><a href="/courses" className='hover:text-slate-300'>courses</a></li>
@@ -32,7 +32,7 @@ const Footer = () => {
       
       </div>
       </div>
-      <p className='flex justify-center p-2'>© 2024 C2tec - Master the Craft of Coding.</p>
+      <p className='flex justify-center p-2'>© 2024 C2tec - Master the Craft of Coding</p>
     </footer>
   )
 }
